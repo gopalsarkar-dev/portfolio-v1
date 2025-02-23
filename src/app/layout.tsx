@@ -1,3 +1,4 @@
+import TopBar from "@/components/Header/TopBar";
 import "./globals.css";
 
 type RootLayoutProviderProps = {
@@ -7,7 +8,10 @@ type RootLayoutProviderProps = {
 const RootLayout = ({ children }: RootLayoutProviderProps) => {
   return (
     <html lang="en">
-      <body>{children}</body>
+      <body>
+        <TopBar />
+        <main>{children}</main>
+      </body>
     </html>
   );
 };
