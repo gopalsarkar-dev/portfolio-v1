@@ -1,4 +1,6 @@
 import Link from "next/link";
+import { FaArrowUpRightFromSquare } from "react-icons/fa6";
+import { Button } from "./ui/button";
 import {
   Card,
   CardContent,
@@ -6,8 +8,6 @@ import {
   CardHeader,
   CardTitle,
 } from "./ui/card";
-import { FaArrowUpRightFromSquare } from "react-icons/fa6";
-import { Button } from "./ui/button";
 
 type ProjectInfoTypeProps = {
   title: string;

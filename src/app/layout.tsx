@@ -1,7 +1,7 @@
+import BottomTabs from "@/components/BottomTabs";
+import ThemeProvider from "@/components/Header/ThemeProvider";
 import TopBar from "@/components/Header/TopBar";
 import "./globals.css";
-import ThemeProvider from "@/components/Header/ThemeProvider";
-import BottomTabs from "@/components/BottomTabs";
 
 type RootLayoutProviderProps = {
   children: React.ReactNode;

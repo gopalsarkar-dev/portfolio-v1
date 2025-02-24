@@ -1,7 +1,7 @@
 "use client";
 
-import { Tabs, TabsList, TabsTrigger } from "./ui/tabs";
 import { usePathname, useRouter } from "next/navigation";
+import { Tabs, TabsList, TabsTrigger } from "./ui/tabs";
 
 const BottomTabs = () => {
   const { push } = useRouter();

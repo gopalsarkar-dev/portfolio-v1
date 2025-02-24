@@ -4,8 +4,8 @@ import { FaAws, FaBootstrap, FaHtml5 } from "react-icons/fa6";
 import { IoLogoCss3, IoLogoJavascript } from "react-icons/io";
 import { IoPrism } from "react-icons/io5";
 import { RiNextjsLine, RiNodejsLine, RiTailwindCssFill } from "react-icons/ri";
-import { VscAzure } from "react-icons/vsc";
 import { SiDirectus, SiFastify, SiTypescript } from "react-icons/si";
+import { VscAzure } from "react-icons/vsc";
 
 import { TbBrandVite } from "react-icons/tb";
 
