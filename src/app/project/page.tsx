@@ -1,6 +1,12 @@
 import ProjectCardInfo from "@/components/ProjectCardInfo";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
+import { projectPageSeo } from "@/lib/pageSeoInfo";
 import { backendProjectInfo, frontendProjectInfo } from "@/lib/projectInfo";
+import { Metadata } from "next";
+
+export const generateMetadata = (): Metadata => {
+  return projectPageSeo;
+};
 
 const page = () => {
   return (

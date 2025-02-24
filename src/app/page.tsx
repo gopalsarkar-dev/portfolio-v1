@@ -4,6 +4,13 @@ import Link from "next/link";
 import { BiLogoGmail, BiSolidPhoneCall } from "react-icons/bi";
 import { FaGithub, FaLinkedin } from "react-icons/fa";
 
+import { aboutPageSeo } from "@/lib/pageSeoInfo";
+import type { Metadata } from "next";
+
+export const generateMetadata = (): Metadata => {
+  return aboutPageSeo;
+};
+
 const page = () => {
   return (
     <>
