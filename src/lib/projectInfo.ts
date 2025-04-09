@@ -1,6 +1,7 @@
 export const frontendProjectInfo = [
   {
     title: "RandoUser",
+    builtOn: "",
     link: "https://github.com/gopalsarkar-dev/random-user",
     // imag: ["/nature2.jpg", "/weather.png", "/cloud.jpg"],
     desription:
@@ -26,6 +27,7 @@ export const frontendProjectInfo = [
 export const backendProjectInfo = [
   {
     title: "Todo-Application",
+    builtOn: "(Built on Microservices Architecture.)",
     link: "",
     // imag: ["/weather.png", "/cloud.jpg", "/nature2.jpg"],
     desription:
