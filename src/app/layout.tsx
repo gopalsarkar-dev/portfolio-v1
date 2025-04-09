@@ -1,3 +1,6 @@
+import BottomTabs from "@/components/BottomTabs";
+import ThemeProvider from "@/components/Header/ThemeProvider";
+import TopBar from "@/components/Header/TopBar";
 import "./globals.css";
 
 type RootLayoutProviderProps = {
@@ -6,8 +9,20 @@ type RootLayoutProviderProps = {
 
 const RootLayout = ({ children }: RootLayoutProviderProps) => {
   return (
-    <html lang="en">
-      <body>{children}</body>
+    <html lang="en" suppressHydrationWarning>
+      <body>
+        <ThemeProvider
+          attribute="class"
+          defaultTheme="light"
+          enableSystem={false}
+        >
+          <TopBar />
+          <main className="container mx-auto max-w-screen-lg px-6">
+            {children}
+          </main>
+          <BottomTabs />
+        </ThemeProvider>
+      </body>
     </html>
   );
 };
