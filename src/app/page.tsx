@@ -16,10 +16,9 @@ const page = () => {
     <>
       <div className="grid h-screen place-items-center">
         <div className="grid place-items-center gap-8">
-          <div className="text-center text-4xl font-bold text-neutral-900 dark:bg-gradient-to-b dark:from-neutral-50 dark:to-neutral-400 dark:bg-clip-text dark:text-transparent sm:text-6xl">
-            Hi<span className="text-xl">,</span> I am Gopal Sarkar
-            <span className="text-xl">,</span> Frontend
-            <br className="" /> & Backend Developer.
+          <div className="text-center text-4xl font-bold text-neutral-900 dark:bg-gradient-to-b dark:from-neutral-50 dark:to-neutral-400 dark:bg-clip-text dark:text-transparent sm:text-5xl">
+            Hi<span className="text-lg">,</span> I am Gopal Sarkar Frontend
+            Developer. Currentely larning Backend developmnt to expand my skill.
           </div>
 
           <Image src="/favicon.ico" alt="logo" width={200} height={200} />

@@ -7,8 +7,6 @@ import { RiNextjsLine, RiNodejsLine, RiTailwindCssFill } from "react-icons/ri";
 import { SiDirectus, SiFastify, SiTypescript } from "react-icons/si";
 import { VscAzure } from "react-icons/vsc";
 
-import { TbBrandVite } from "react-icons/tb";
-
 export const SkillData = [
   {
     icon: FaHtml5,
@@ -45,11 +43,7 @@ export const SkillData = [
     name: "React",
     iconSize: 100,
   },
-  {
-    icon: TbBrandVite,
-    name: "Vite",
-    iconSize: 100,
-  },
+
   {
     icon: RiNextjsLine,
     name: "Nextjs",

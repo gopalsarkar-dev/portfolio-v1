@@ -11,8 +11,8 @@ export const generateMetadata = (): Metadata => {
 const page = () => {
   return (
     <>
-      <div className="grid gap-8 pb-14 pt-24">
-        <div className="text-4xl font-bold text-neutral-900 dark:bg-gradient-to-b dark:from-neutral-50 dark:to-neutral-400 dark:bg-clip-text dark:text-transparent sm:text-6xl">
+      <div className="grid gap-8 pb-16 pt-24">
+        <div className="text-4xl font-bold text-neutral-900 dark:bg-gradient-to-b dark:from-neutral-50 dark:to-neutral-400 dark:bg-clip-text dark:text-transparent sm:text-5xl">
           All Project
         </div>
         <Tabs defaultValue="fullstack-project" className="space-y-8">
