@@ -1,5 +1,23 @@
 export const frontendProjectInfo = [
   {
+    title: "Calculator-Application",
+    builtOn: "",
+    link: "https://github.com/gopalsarkar-dev/calculator-application",
+    // imag: ["/weather.png", "/nature2.jpg", "/cloud.jpg"],
+    desription:
+      "A basic calculator web app that performs simple arithmetic operations : addition, subtraction, multiplication,and division. and all clear button.",
+  },
+
+  {
+    title: "Weather-App",
+    builtOn: "",
+    link: "https://github.com/gopalsarkar-dev/weather-app",
+    // imag: ["/weather.png", "/nature2.jpg", "/cloud.jpg"],
+    desription:
+      "A simple weather application that allows users to search for the current weather in any city using the weatherapi API.It displays temperature,icon and etc representing the conditions.",
+  },
+
+  {
     title: "RandoUser",
     builtOn: "",
     link: "https://github.com/gopalsarkar-dev/random-user",
@@ -7,13 +25,6 @@ export const frontendProjectInfo = [
     desription:
       "If you enter any number between one and thirty in the input field and click the button, a random profile will be created, but by default three profiles will be shown.",
   },
-  // {
-  //   title: "Currency Converter",
-  //   link: "",
-  //   imag: ["/weather.png", "/nature2.jpg", "/cloud.jpg"],
-  //   desription:
-  //     "Quickly convert currencies with real-time exchange rates by entering the amount, and selecting your country for accurate conversions.",
-  // },
 
   // {
   //   title: "Weather-Application",
