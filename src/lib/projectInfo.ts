@@ -5,7 +5,7 @@ export const frontendProjectInfo = [
     link: "https://github.com/gopalsarkar-dev/calculator-application",
     // imag: ["/weather.png", "/nature2.jpg", "/cloud.jpg"],
     desription:
-      "A basic calculator web app that performs simple arithmetic operations : addition, subtraction, multiplication,and division. and all clear button.",
+      "A basic calculator web app that allows users to perform simple arithmetic operations such as addition, subtraction, multiplication, and division. It features a user-friendly interface with numeric buttons, operation keys, and an All Clear button to reset the input and result.",
   },
 
   {
@@ -14,7 +14,7 @@ export const frontendProjectInfo = [
     link: "https://github.com/gopalsarkar-dev/weather-app",
     // imag: ["/weather.png", "/nature2.jpg", "/cloud.jpg"],
     desription:
-      "A simple weather application that allows users to search for the current weather in any city using the weatherapi API.It displays temperature,icon and etc representing the conditions.",
+      "A simple weather application that allows users to search for the current weather in any city using the weatherapi API. It displays temperature,icon and etc representing the conditions.",
   },
 
   {

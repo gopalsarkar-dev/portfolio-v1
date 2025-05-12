@@ -11,43 +11,43 @@ export const SkillData = [
   {
     icon: FaHtml5,
     name: "Html5",
-    iconSize: 100,
+    iconSize: 80,
   },
   {
     icon: IoLogoCss3,
     name: "Css3",
-    iconSize: 100,
+    iconSize: 80,
   },
   {
     icon: FaBootstrap,
     name: "Bootstrap",
-    iconSize: 100,
+    iconSize: 80,
   },
   {
     icon: IoLogoJavascript,
     name: "Javascript",
-    iconSize: 100,
+    iconSize: 80,
   },
   {
     icon: SiTypescript,
     name: "Typescript",
-    iconSize: 100,
+    iconSize: 80,
   },
   {
     icon: RiTailwindCssFill,
     name: "Tailwindcss",
-    iconSize: 100,
+    iconSize: 80,
   },
   {
     icon: FaReact,
     name: "React",
-    iconSize: 100,
+    iconSize: 80,
   },
 
   {
     icon: RiNextjsLine,
     name: "Nextjs",
-    iconSize: 100,
+    iconSize: 80,
   },
 ];
 
@@ -55,27 +55,27 @@ export const BackendSkill = [
   {
     icon: RiNodejsLine,
     name: "Nodejs",
-    iconSize: 100,
+    iconSize: 80,
   },
   {
     icon: SiDirectus,
     name: "Directus",
-    iconSize: 100,
+    iconSize: 80,
   },
   {
     icon: DiPostgresql,
     name: "Postgresql",
-    iconSize: 100,
+    iconSize: 80,
   },
   {
     icon: IoPrism,
     name: "Prisma",
-    iconSize: 100,
+    iconSize: 80,
   },
   {
     icon: SiFastify,
     name: "Fastify ",
-    iconSize: 100,
+    iconSize: 80,
   },
 ];
 
@@ -83,21 +83,21 @@ export const CloudData = [
   {
     icon: FaAws,
     name: "Aws",
-    iconSize: 100,
+    iconSize: 80,
   },
   {
     icon: DiGoogleCloudPlatform,
     name: "Googlecloud",
-    iconSize: 100,
+    iconSize: 80,
   },
   {
     icon: VscAzure,
     name: "Microsoftazure",
-    iconSize: 100,
+    iconSize: 80,
   },
   {
     icon: FaDigitalOcean,
     name: "DigitalOcean ",
-    iconSize: 100,
+    iconSize: 80,
   },
 ];
