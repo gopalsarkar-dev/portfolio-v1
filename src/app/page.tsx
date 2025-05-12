@@ -16,15 +16,15 @@ const page = () => {
     <>
       <div className="grid h-screen place-items-center">
         <div className="grid place-items-center gap-8">
-          <div className="text-center text-2xl font-bold text-neutral-900 dark:bg-gradient-to-b dark:from-neutral-50 dark:to-neutral-400 dark:bg-clip-text dark:text-transparent sm:text-5xl">
-            Hi<span className="text-lg">,</span> i am Gopal Sarkar "Frontend
-            Developer | Learning Backend to Expand My Full-Stack Skills"
+          <div className="text text-center text-2xl font-bold text-neutral-900 dark:bg-gradient-to-b dark:from-neutral-50 dark:to-neutral-400 dark:bg-clip-text dark:text-transparent sm:text-5xl">
+            Hi<span className="text-lg">,</span> i am Gopal Sarkar -
+            &quot;Frontend Developer | Learning Backend to Expand my Full-Stack
+            Skills&quot;.
           </div>
 
           <Image src="/favicon.ico" alt="logo" width={200} height={200} />
 
           <div className="flex items-center justify-center gap-5">
-            hidden
             <Link href="tel: 7477757792">
               <Button size={"icon"} variant={"outline"}>
                 <BiSolidPhoneCall />
