@@ -17,8 +17,8 @@ const page = () => {
       <div className="grid h-screen place-items-center">
         <div className="grid place-items-center gap-8">
           <div className="text text-center text-2xl font-bold text-neutral-900 dark:bg-gradient-to-b dark:from-neutral-50 dark:to-neutral-400 dark:bg-clip-text dark:text-transparent sm:text-5xl">
-            &quot;Hi, I`&apos;`m Gopal Sarkar — a passionate Full-Stack
-            Developer. I build modern and dynamic web applications.&quot;
+            &quot;Hi, I&apos;m Gopal Sarkar — a passionate Full-Stack Developer.
+            I build modern and dynamic web applications.&quot;
           </div>
 
           <Image src="/favicon.ico" alt="logo" width={200} height={200} />
