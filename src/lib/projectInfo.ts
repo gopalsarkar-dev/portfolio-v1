@@ -44,4 +44,12 @@ export const backendProjectInfo = [
     desription:
       "A simple task management app to help your organize to your daily to-do lists. Users can Authentication and authorization Add, delete, and mark tasks as complete and imcomplete with ease.",
   },
+  {
+    title: "NodeSnap",
+    builtOn: "(Built on Microservices Architecture.)",
+    link: "https://github.com/gopalsarkar-dev/nodesnap-ui",
+    // imag: ["/weather.png", "/cloud.jpg", "/nature2.jpg"],
+    desription:
+      "NodeSnap is a modern web application built with Next.js, Tailwind CSS, Shadcn UI, and powered by Directus as a backend. It features user auth, image uploads, profile management, and media sharing. Designed for speed, scalability, and fully responsive across all devices.",
+  },
 ];
