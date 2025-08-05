@@ -1,20 +1,20 @@
 export const frontendProjectInfo = [
   {
-    title: "Calculator-Application",
-    builtOn: "",
-    link: "https://github.com/gopalsarkar-dev/calculator-application",
-    // imag: ["/weather.png", "/nature2.jpg", "/cloud.jpg"],
-    desription:
-      "A basic calculator web app that allows users to perform simple arithmetic operations such as addition, subtraction, multiplication, and division. It features a user-friendly interface with numeric buttons, operation keys, and an All Clear button to reset the input and result.",
-  },
-
-  {
     title: "Weather-App",
     builtOn: "",
     link: "https://github.com/gopalsarkar-dev/weather-app",
     // imag: ["/weather.png", "/nature2.jpg", "/cloud.jpg"],
     desription:
       "A simple weather application that allows users to search for the current weather in any city using the weatherapi API. It displays temperature,icon and etc representing the conditions.",
+  },
+
+  {
+    title: "Calculator-Application",
+    builtOn: "",
+    link: "https://github.com/gopalsarkar-dev/calculator-application",
+    // imag: ["/weather.png", "/nature2.jpg", "/cloud.jpg"],
+    desription:
+      "A basic calculator web app that allows users to perform simple arithmetic operations such as addition, subtraction, multiplication, and division. It features a user-friendly.",
   },
 
   {
@@ -51,5 +51,13 @@ export const backendProjectInfo = [
     // imag: ["/weather.png", "/cloud.jpg", "/nature2.jpg"],
     desription:
       "NodeSnap is a modern web application built with Next.js, Tailwind CSS, Shadcn UI, and powered by Directus as a backend. It features user auth, image uploads, profile management, and media sharing. Designed for speed, scalability, and fully responsive across all devices.",
+  },
+  {
+    title: "PrepSagr",
+    builtOn: "(Built on Monolithic Architecture.)",
+    link: "https://github.com/gopalsarkar-dev/prepsage.git",
+    // imag: ["/weather.png", "/cloud.jpg", "/nature2.jpg"],
+    desription:
+      "PrepSagr is a smart learning platform designed to help users prepare for technical interviews, and skill development. The platform offers three levels of question patterns — Easy, Medium, and Hard — catering to learners of all stages. PrepSagr is a Full-Stack project built on Monolithic Architecture for simplicity and user-friendly interface. Monolithic Architecture, meaning both the frontend and backend are developed and deployed as a single codebase within one project repository.",
   },
 ];
