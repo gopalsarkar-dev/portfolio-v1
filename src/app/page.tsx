@@ -25,22 +25,22 @@ const page = () => {
 
           <div className="flex items-center justify-center gap-5">
             <Link href="tel: 7477757792">
-              <Button size={"icon"} variant={"outline"}>
+              <Button size={"icon"}>
                 <BiSolidPhoneCall />
               </Button>
             </Link>
             <Link href="mailto:gopalsarkar.dev@gmail.com">
-              <Button size={"icon"} variant={"outline"}>
+              <Button size={"icon"}>
                 <BiLogoGmail />
               </Button>
             </Link>
             <Link href="https://github.com/gopalsarkar-dev">
-              <Button size={"icon"} variant={"outline"}>
+              <Button size={"icon"}>
                 <FaGithub />
               </Button>
             </Link>
             <Link href="https://linkedin.com/in/gopalsarkar-dev">
-              <Button size={"icon"} variant={"outline"}>
+              <Button size={"icon"}>
                 <FaLinkedin />
               </Button>
             </Link>

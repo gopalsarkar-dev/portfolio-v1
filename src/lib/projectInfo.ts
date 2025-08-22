@@ -58,6 +58,6 @@ export const backendProjectInfo = [
     link: "https://github.com/gopalsarkar-dev/prepsage.git",
     // imag: ["/weather.png", "/cloud.jpg", "/nature2.jpg"],
     desription:
-      "PrepSagr is a smart learning platform designed to help users prepare for technical interviews, and skill development. The platform offers three levels of question patterns — Easy, Medium, and Hard — catering to learners of all stages. PrepSagr is a Full-Stack project built on Monolithic Architecture for simplicity and user-friendly interface. Monolithic Architecture, meaning both the frontend and backend are developed and deployed as a single codebase within one project repository.",
+      "PrepSagr is a smart learning platform designed to help users prepare for technical interviews, and skill development. The platform offers three levels of question patterns — Easy, Medium, and Hard — catering to learners of all stages.",
   },
 ];
