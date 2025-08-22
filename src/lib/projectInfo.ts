@@ -55,7 +55,7 @@ export const backendProjectInfo = [
   {
     title: "PrepSagr",
     builtOn: "(Built on Monolithic Architecture.)",
-    link: "https://github.com/gopalsarkar-dev/prepsage.git",
+    link: "https://github.com/gopalsarkar-dev/fs-prepsage.git",
     // imag: ["/weather.png", "/cloud.jpg", "/nature2.jpg"],
     desription:
       "PrepSagr is a smart learning platform designed to help users prepare for technical interviews, and skill development. The platform offers three levels of question patterns — Easy, Medium, and Hard — catering to learners of all stages.",
